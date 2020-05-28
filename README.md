@@ -1,7 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to TeamShare! This is back end of TeamShare, and you can find the front end here:
+
+https://github.com/AnnaWijetunga/teamshare-frontend
+
+More to come :)
 
 Things you may want to cover:
 
